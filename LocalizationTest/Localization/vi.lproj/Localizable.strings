@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizationTest
+
+  Created by Gerard on 8/26/24.
+  
+*/
+
+"welcome_message" = "Chào mừng đến với ứng dụng!";
+"welcome_messageRx" = "Chào mừng đến với ứng dụng! RxSwift Implementation";
+"welcome_messageSUI" = "Chào mừng đến với ứng dụng! SwiftUI Implementation";

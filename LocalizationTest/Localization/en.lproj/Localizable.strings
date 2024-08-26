@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationTest
+
+  Created by Gerard on 8/26/24.
+  
+*/
+
+"welcome_message" = "Welcome to the app!";
+"welcome_messageRx" = "RxSwift: Welcome to the app!";
+"welcome_messageSUI" = "SwiftUI: Welcome to the app!";
+
